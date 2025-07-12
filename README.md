@@ -1,7 +1,6 @@
 ## Hi there 👋
 I am Ahmed
 
-
 A DevOps Enthusiast
 
 <!--
